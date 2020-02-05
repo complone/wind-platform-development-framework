@@ -45,7 +45,7 @@
 		<log4j_version>1.2.17</log4j_version>
 		<slf4j_version>1.7.21</slf4j_version>
 		<mysql.version>5.1.38</mysql.version>
-		<shiro.version>1.2.5</shiro.version>
+		<shiro.version>1.4.2</shiro.version>
 		<cglib.version>3.2.2</cglib.version>
 		<jstl.version>1.2</jstl.version>
 		<druid.version>0.2.23</druid.version>
