@@ -37,7 +37,7 @@
 		<hibernate-validator.version>5.4.2.Final</hibernate-validator.version>
 
 		<javaee-api.version>7.0</javaee-api.version>
-		<junit.version>4.12</junit.version>
+		<junit.version>4.13.1</junit.version>
 		<aspectjrt.version>1.5.4</aspectjrt.version>
 		<aspectjweaver.version>1.8.9</aspectjweaver.version>
 		<mybatis.version>3.4.0</mybatis.version>
