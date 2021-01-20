@@ -57,7 +57,7 @@
 		<commons-io.version>2.5</commons-io.version>
 		<commons-io.version>2.5</commons-io.version>
 
-		<jackson.version>2.7.4</jackson.version>
+		<jackson.version>2.12.1</jackson.version>
 		<httpclient.version>4.4</httpclient.version>
 
 		<org.springframework.version>4.3.14.RELEASE</org.springframework.version>
